@@ -4,37 +4,37 @@
             "name": "哔滴影视",
             "type": 3,
             "api": "csp_bde4",
-            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/bdys.js"
+            "ext": "https://raw.githubusercontent.com/sendme365/xptv/refs/heads/main/js/bdys.js"
         },
         { 
             "name": "欧乐🪜", 
             "type": 3, 
             "api": "csp_Olevod",
-            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ole.js"
+            "ext": "https://raw.githubusercontent.com/sendme365/xptv/refs/heads/main/js/ole.js"
         },
         { 
             "name": "在线之家", 
             "type": 3, 
             "api": "csp_Zxzj",
-            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/zxzj.js"
+            "ext": "https://raw.githubusercontent.com/sendme365/xptv/refs/heads/main/js/zxzj.js"
         },
         { 
             "name": "LIBVIO", 
             "type": 3, 
             "api": "csp_libvio",
-            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/libvio.js"
+            "ext": "https://raw.githubusercontent.com/sendme365/xptv/refs/heads/main/js/libvio.js"
         },
          { 
             "name": "ギリギリ动漫", 
             "type": 3, 
             "api": "csp_ai",
-            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ai.js"
+            "ext": "https://raw.githubusercontent.com/sendme365/xptv/refs/heads/main/js/ai.js"
         },
         { 
             "name": "独播库", 
             "type": 3, 
             "api": "csp_duboku",
-            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/duboku.js"
+            "ext": "https://raw.githubusercontent.com/sendme365/xptv/refs/heads/main/js/duboku.js"
         },
        { 
             "name": "AGE动漫", 
@@ -94,7 +94,7 @@
             "name": "影视天堂",
             "type": 3,
             "api": "csp_ystt",
-            "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ystt.js"
+            "ext": "https://raw.githubusercontent.com/sendme365/xptv/refs/heads/main/js/ystt.js"
         },
         {
             "name": "嗷嗚動漫",
