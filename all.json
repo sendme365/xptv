@@ -486,6 +486,12 @@
       "type": 3,
       "api": "csp_xpanpan",
       "ext": "https://raw.githubusercontent.com/sendme365/xptv/refs/heads/main/js/xpanpan.js"
+    },
+    {
+      "name": "至臻 | PAN",
+      "type": 3,
+      "api": "csp_mihdr",
+      "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/mihdr.js"
     }
   ]
 }
